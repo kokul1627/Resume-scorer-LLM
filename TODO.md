@@ -1,0 +1,2 @@
+- [x] Update API key in resume_matcher_app.py to hardcoded value from testopen.py
+- [x] Update model name in resume_matcher_app.py to "gemini-2.5-flash"

@@ -1,0 +1,47 @@
+Experience: 3+ year
+
+Location: PAN India
+
+Mandatory Skills: Python, AIML, Machine Learning, Deep Learning, NLP, ElasticSearch or Apache Solr, Tableau
+
+Job Description:
+
+Ability to design and develop machine learning and deep learning systems
+Running machine learning tests and experiments.
+Implementing appropriate ML algorithms.
+Ability to plan, execute, measure results and drive improvement on a continuing basis;
+Managing available resources such as hardware, data and personnel so that deadlines are met
+Strategic thinking and ability to communicate on every level;
+Collaborate with team to brainstorm and share ideas to solve business problems.
+Mentor junior and mid-level engineers;
+Work collaboratively with team members and others stakeholders to achieve goals;
+Passionate about AI and stay up-to-date with the latest development in the field.
+Experience:
+
+Hands on experience in consuming NumPy, Pandas and their features.
+Effective visualization the text data and make inferences based on that, should also come up with appropriate data cleansing technique. (Hands on NLP libraries and Regex is must).
+Using effective text representation techniques to transform natural language into useful feature. (Hands on using pretrained model and creating custom model is must)
+Training, evaluating and explaining the models (Able to develop ML and DL model for document classification, document clustering, sentiment analysis etc..)
+Hands experience in using NLP libraries or custom model to identify entities and relationship between entities. (Must know Spacy, NLTK, Stanford core NLP and deep learning model)
+Experience in establishing semantic relationship and similarity between documents. (Hands on word embedding and tools like Solr , Elastic search)
+Working knowledge and implementation of algorithm (like LDA, LSI) to extract keywords from document. (Hands on using Genism, graph based and deep learning model)
+Experience in developing model using ANN, RNN, Attention mechanism. Able to explain all the attributes, parameters involved along with pros and cons.
+Experience in Computer vision and image data processing.
+Hands on in utilizing transfer learning concepts both in NLP and Computer Vision field.
+Qualification:
+
+3+ years in ML and related technologies;
+Experience with Python is must.
+Knowledge of Agile development or other development methodology;
+A College or University degree in computer science or the equivalent.
+Good to Have:
+
+Experience in using Google cloud platform or Azure ML platform.
+Experience in using knowledge graph and advance DL model like BERT and XLNET.
+Experience with SQL/NoSQL databases.
+Required Soft Skills:
+
+Demonstrate drive, determination, enthusiasm, and an ability to work effectively as a team member;
+Exhibit ability to solve problems efficiently;
+Should be dedicated, self-disciplined, proactive, follow deadlines and able to work independently;
+Should have good analytical, communication and interpersonal skills.

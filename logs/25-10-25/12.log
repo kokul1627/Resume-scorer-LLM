@@ -1,0 +1,16 @@
+2025-10-25 12:21:46,258 - INFO - -------------------------------------
+2025-10-25 12:21:46,259 - INFO - -------------------------------------
+2025-10-25 12:21:46,259 - INFO - -------------------------------------
+2025-10-25 12:21:47,627 - INFO - -------------------------------------
+2025-10-25 12:22:07,029 - INFO - -------------------------------------
+2025-10-25 12:22:11,468 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-10-25 12:22:11,474 - INFO - Retrying request to /chat/completions in 0.411352 seconds
+2025-10-25 12:22:13,014 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-10-25 12:22:13,015 - INFO - Retrying request to /chat/completions in 0.842215 seconds
+2025-10-25 12:22:14,115 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-10-25 12:22:25,160 - INFO - -------------------------------------
+2025-10-25 12:22:28,002 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-10-25 12:22:28,002 - INFO - Retrying request to /chat/completions in 0.381511 seconds
+2025-10-25 12:22:29,077 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-10-25 12:22:29,077 - INFO - Retrying request to /chat/completions in 0.991600 seconds
+2025-10-25 12:22:30,759 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
